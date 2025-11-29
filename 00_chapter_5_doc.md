@@ -1,4 +1,4 @@
-# Chapter 5 Documentation (Roman Urdu)
+# Chapter 5 Documentation 
 
 ## **Title: How It All Started — The Claude Code Phenomenon**
 
